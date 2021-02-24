@@ -1,0 +1,13 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - pandas
+    - keras
+    - Pillow
+    - matplotlib
+    - scikit-learn
+    - sklearn
+    - numpy
+    - xgboost
